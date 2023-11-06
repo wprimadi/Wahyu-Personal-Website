@@ -286,7 +286,7 @@ header("Expires: 0"); // Proxies
                                         </div>
                                         <div class="content">
                                             <div id="github-calendar">
-                                                <img src="https://ghchart.rshah.org/wprimadi" width="100%">
+                                                <a href="https://github.com/wprimadi" target="_blank"><img src="github.php" width="100%" border="0"></a>
                                             </div>
                                         </div>
                                     </div>
