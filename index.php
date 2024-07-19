@@ -191,7 +191,7 @@ header("Expires: 0"); // Proxies
 
 
         <!-- Start Main Page Wrapper -->
-        <main class="main-page-wrapper">
+        <main class="main-page-wrapper default">
 
             <!-- Start Slider Area -->
             <div class="rn-slider-area" id="about">
